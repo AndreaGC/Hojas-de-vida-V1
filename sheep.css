@@ -1,0 +1,21 @@
+body {
+	background-color: #E47196;
+}
+
+h1 {
+	color: black;
+	font-family: luckiest guy;
+	font-size: 20px;
+}
+
+table{
+	border-collapse: separate;
+	border-spacing: 2px;
+}
+
+td,tr{
+	width="500";
+	height="50";
+}
+
+	
